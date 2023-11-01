@@ -2,3 +2,4 @@
 0517. ✅ test: mock database connection in test suite
 0949. 📚 docs: write FAQ section
 0471. ✨ feat: support email verification
+0361. ✨ feat: support email verification
