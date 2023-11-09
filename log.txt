@@ -4,3 +4,4 @@
 0471. ✨ feat: support email verification
 0361. ✨ feat: support email verification
 0332. 🎨 style: standardize quote style
+0839. 🎨 style: apply consistent indentation
