@@ -14,3 +14,4 @@
 0961. 📚 docs: add API usage examples
 0994. 🚀 perf: reduce image load time
 0360. ✨ feat: add export to CSV option
+0350. 🚀 perf: cache repeated calculations
