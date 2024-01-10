@@ -17,3 +17,4 @@
 0350. 🚀 perf: cache repeated calculations
 0633. ✨ feat: add user authentication
 0667. ✨ feat: add export to CSV option
+0302. ✨ feat: implement quiz timer feature
