@@ -19,3 +19,4 @@
 0667. ✨ feat: add export to CSV option
 0302. ✨ feat: implement quiz timer feature
 0335. ♻️ chore: update .gitignore
+0473. 📚 docs: write FAQ section
