@@ -20,3 +20,4 @@
 0302. ✨ feat: implement quiz timer feature
 0335. ♻️ chore: update .gitignore
 0473. 📚 docs: write FAQ section
+0120. ✅ test: add integration test for /submit endpoint
