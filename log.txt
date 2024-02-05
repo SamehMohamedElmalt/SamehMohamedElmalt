@@ -28,3 +28,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0420. 🚀 perf: reduce image load time
 0514. 🐛 fix: fix broken CSS in mobile view
+0996. ✅ test: test user registration edge cases
