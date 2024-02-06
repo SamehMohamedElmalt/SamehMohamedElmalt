@@ -29,3 +29,4 @@
 0420. 🚀 perf: reduce image load time
 0514. 🐛 fix: fix broken CSS in mobile view
 0996. ✅ test: test user registration edge cases
+0173. 🚀 perf: cache repeated calculations
