@@ -31,3 +31,4 @@
 0996. ✅ test: test user registration edge cases
 0173. 🚀 perf: cache repeated calculations
 0104. 🎨 style: apply consistent indentation
+0375. 🐛 fix: handle 500 error in quiz API
