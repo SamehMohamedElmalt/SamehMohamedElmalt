@@ -39,3 +39,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0605. ✨ feat: support email verification
 0175. 📚 docs: add API usage examples
+0479. 🐛 fix: fix null pointer exception on login
