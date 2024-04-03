@@ -45,3 +45,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0985. 📚 docs: document token refresh logic
 0349. ✅ test: increase coverage on auth module
+0723. 🔧 refactor: remove redundant code blocks
