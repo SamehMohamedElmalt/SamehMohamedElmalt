@@ -52,3 +52,4 @@
 0968. 🎨 style: standardize quote style
 0027. 📚 docs: clarify environment setup
 0249. ✅ test: increase coverage on auth module
+0313. 🎨 style: apply consistent indentation
