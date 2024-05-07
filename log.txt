@@ -54,3 +54,4 @@
 0249. ✅ test: increase coverage on auth module
 0313. 🎨 style: apply consistent indentation
 0174. 📚 docs: clarify environment setup
+0291. 📚 docs: write FAQ section
