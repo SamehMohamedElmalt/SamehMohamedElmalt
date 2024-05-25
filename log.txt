@@ -62,3 +62,4 @@
 0673. 🐛 fix: correct typo in registration form
 0519. 📚 docs: document token refresh logic
 0552. 🐛 fix: fix null pointer exception on login
+0414. 🔧 refactor: remove redundant code blocks
