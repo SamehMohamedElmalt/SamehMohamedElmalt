@@ -71,3 +71,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0943. 🎨 style: rename variables for clarity
 0256. ✅ test: mock database connection in test suite
+0062. ♻️ chore: update .gitignore
