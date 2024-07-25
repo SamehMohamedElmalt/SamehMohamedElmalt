@@ -76,3 +76,4 @@
 0363. 📚 docs: clarify environment setup
 0282. 🔧 refactor: remove redundant code blocks
 0880. 🐛 fix: fix broken CSS in mobile view
+0219. ✅ test: increase coverage on auth module
