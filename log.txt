@@ -79,3 +79,4 @@
 0219. ✅ test: increase coverage on auth module
 0254. 🚀 perf: reduce image load time
 0476. 🚀 perf: reduce image load time
+0914. ✅ test: test user registration edge cases
