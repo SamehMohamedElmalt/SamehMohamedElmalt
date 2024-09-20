@@ -88,3 +88,4 @@
 0034. 📚 docs: improve code comments in utils
 0072. 🚀 perf: optimize database query for quiz results
 0805. ♻️ chore: add GitHub actions badge
+0431. 🎨 style: reformat files with black
