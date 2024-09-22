@@ -90,3 +90,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0431. 🎨 style: reformat files with black
 0957. 🐛 fix: fix null pointer exception on login
+0160. ♻️ chore: bump dependencies
