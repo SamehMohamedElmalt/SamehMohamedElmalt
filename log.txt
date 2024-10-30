@@ -98,3 +98,4 @@
 0882. 🚀 perf: optimize database query for quiz results
 0119. 📚 docs: improve code comments in utils
 0137. 🎨 style: rename variables for clarity
+0885. ♻️ chore: update .gitignore
