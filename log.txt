@@ -101,3 +101,4 @@
 0885. ♻️ chore: update .gitignore
 0562. 🔧 refactor: clean up auth middleware
 0304. 🔧 refactor: remove redundant code blocks
+0003. ✅ test: increase coverage on auth module
