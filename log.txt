@@ -105,3 +105,4 @@
 0464. 🎨 style: remove trailing whitespace
 0049. 🐛 fix: handle 500 error in quiz API
 0702. ✨ feat: add user authentication
+0615. 🐛 fix: correct typo in registration form
