@@ -111,3 +111,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0168. ✅ test: add integration test for /submit endpoint
 0811. 🎨 style: reformat files with black
+0159. 🚀 perf: lazy-load components
