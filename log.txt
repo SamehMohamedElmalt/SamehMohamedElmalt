@@ -115,3 +115,4 @@
 0443. 🎨 style: standardize quote style
 0158. 📚 docs: clarify environment setup
 0084. 🐛 fix: handle 500 error in quiz API
+0639. 🐛 fix: correct typo in registration form
