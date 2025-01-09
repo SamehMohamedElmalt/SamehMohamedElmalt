@@ -128,3 +128,4 @@
 0954. 🚀 perf: cache repeated calculations
 0706. ✨ feat: support email verification
 0480. ♻️ chore: add GitHub actions badge
+0113. ✨ feat: add user authentication
