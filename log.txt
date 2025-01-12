@@ -130,3 +130,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0113. ✨ feat: add user authentication
 0139. 📚 docs: document token refresh logic
+0466. 🚀 perf: optimize database query for quiz results
