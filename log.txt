@@ -136,3 +136,4 @@
 0061. ✨ feat: create admin dashboard
 0373. 📚 docs: document token refresh logic
 0964. ♻️ chore: clean up unused files
+0397. 🐛 fix: handle 500 error in quiz API
