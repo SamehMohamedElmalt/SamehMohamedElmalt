@@ -149,3 +149,4 @@
 0962. ✨ feat: create admin dashboard
 0178. ✨ feat: support email verification
 0230. ✨ feat: create admin dashboard
+0565. ♻️ chore: add GitHub actions badge
