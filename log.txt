@@ -153,3 +153,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0314. ✨ feat: implement quiz timer feature
 0990. ♻️ chore: rename env.example
+0764. ✨ feat: add user authentication
