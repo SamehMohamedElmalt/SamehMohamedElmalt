@@ -155,3 +155,4 @@
 0990. ♻️ chore: rename env.example
 0764. ✨ feat: add user authentication
 0194. 🎨 style: standardize quote style
+0797. 📚 docs: add API usage examples
