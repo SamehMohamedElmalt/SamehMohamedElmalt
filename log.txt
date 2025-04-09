@@ -158,3 +158,4 @@
 0797. 📚 docs: add API usage examples
 0789. ✨ feat: create admin dashboard
 0294. 🐛 fix: prevent crash on empty input
+0008. 🚀 perf: reduce image load time
