@@ -157,3 +157,4 @@
 0194. 🎨 style: standardize quote style
 0797. 📚 docs: add API usage examples
 0789. ✨ feat: create admin dashboard
+0294. 🐛 fix: prevent crash on empty input
