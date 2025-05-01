@@ -166,3 +166,4 @@
 0290. ✅ test: test user registration edge cases
 0280. ✅ test: add integration test for /submit endpoint
 0542. 🔧 refactor: organize models into subfolders
+0342. 🚀 perf: cache repeated calculations
