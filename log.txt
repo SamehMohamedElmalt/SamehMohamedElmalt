@@ -169,3 +169,4 @@
 0342. 🚀 perf: cache repeated calculations
 0711. 🐛 fix: fix broken CSS in mobile view
 0432. 🎨 style: apply consistent indentation
+0401. 🚀 perf: reduce image load time
