@@ -171,3 +171,4 @@
 0432. 🎨 style: apply consistent indentation
 0401. 🚀 perf: reduce image load time
 0907. 🔧 refactor: split large controller into smaller functions
+0112. ✨ feat: enable dark mode toggle
