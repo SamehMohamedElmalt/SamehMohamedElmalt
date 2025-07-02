@@ -183,3 +183,4 @@
 0125. ✅ test: add integration test for /submit endpoint
 0448. 🐛 fix: correct typo in registration form
 0235. 🐛 fix: fix null pointer exception on login
+0048. 📚 docs: update README with setup steps
