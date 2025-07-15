@@ -187,3 +187,4 @@
 0975. 🎨 style: apply consistent indentation
 0973. 🔧 refactor: organize models into subfolders
 0428. 🐛 fix: fix null pointer exception on login
+0786. ✨ feat: enable dark mode toggle
