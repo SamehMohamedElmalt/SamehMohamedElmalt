@@ -1,5 +1,5 @@
 
-# Hi, I'm Sameh Mohamed Elmalt 👋
+# Hi, I'm Selin Sancaklı 👋
 
 🎯 **Data Analyst | Business Intelligence | Data Storyteller**  
 📊 Transforming raw data into actionable insights  
@@ -19,7 +19,7 @@ My focus is on **data cleaning, statistical analysis, business intelligence, and
 
 ## 🛠️ Skills & Tools
 **Languages & Databases**  
-`Python` `SQL` `PostgreSQL` `MySQL` `Excel`  
+`Python` `SQL` `PostgreSQL` `MySQL` `Excel` `Power BI` `SSRS` `SPSS` 
 
 **Data Analysis Libraries**  
 `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn`  
